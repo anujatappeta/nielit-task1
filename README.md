@@ -155,6 +155,7 @@ http://127.0.0.1:8000/
 ```
 
 To stop the development server, press `Ctrl + C` in your terminal.
+<img width="1632" height="852" alt="image" src="https://github.com/user-attachments/assets/cda3c030-6a68-4436-9ce3-14928be07adf" />
 
 ---
 
