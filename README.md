@@ -9,20 +9,6 @@ A clean, responsive, full-stack **Task Management Web Application** built with *
 
 ---
 
-## 📑 Table of Contents
-
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Prerequisites](#-prerequisites)
-- [Installation Instructions](#-installation-instructions)
-- [Running the Application](#-running-the-application)
-- [URL Routes & API Endpoints](#-url-routes--api-endpoints)
-- [Django Admin Access](#-django-admin-access)
-- [License & Acknowledgments](#-license--acknowledgments)
-
----
-
 ## ✨ Features
 
 - 📝 **Task Creation**: Easily add new tasks with title, detailed descriptions, and due dates.
